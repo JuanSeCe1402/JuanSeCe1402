@@ -1,16 +1,17 @@
-## Hi there 👋
+# Juan Serena
 
-<!--
-**JuanSeCe1402/JuanSeCe1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Construyo aplicaciones en Python para preparar datos, evaluar modelos y organizar procesos. Mi portafolio conecta ciencia de datos, machine learning y desarrollo backend, con una línea de investigación en física computacional.
 
-Here are some ideas to get you started:
+**Python · SQL · pandas · scikit-learn · Flask · FastAPI · PyTorch**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Explorar mi portafolio →](https://github.com/JuanSeCe1402/juan-serena-data-science)** · **[Abrir el laboratorio interactivo →](https://juan-serena-data-lab-production.up.railway.app/)**
+
+| Proyecto | Qué puedes revisar |
+|---|---|
+| [DARWIN](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/darwin) | Predicción de recompra, preparación de variables y evaluación reproducible. |
+| [NANA](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/nana) | Limpieza y perfilado de CSV, con exportación a CSV y SQLite. |
+| [ESCULAPIO](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/esculapio) | Agenda, roles y transición a atención humana en una aplicación FastAPI. |
+
+También investigo [simulación y aprendizaje automático en bioimpedancia](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/bioimpedancia). Cada caso documenta su alcance, pruebas y limitaciones.
+
+[Ver código, evidencia y catálogo completo](https://github.com/JuanSeCe1402/juan-serena-data-science)
