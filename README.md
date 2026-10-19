@@ -8,7 +8,7 @@ Construyo aplicaciones en Python para preparar datos, evaluar modelos y organiza
 
 | Proyecto | Qué puedes revisar |
 |---|---|
-| [DARWIN](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/darwin) | Predicción de recompra, preparación de variables y evaluación reproducible. |
+| [DARWIN](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/darwin) | Recompra con datos públicos de UCI, evaluación temporal y comparación con referencias sencillas. |
 | [NANA](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/nana) | Limpieza y perfilado de CSV, con exportación a CSV y SQLite. |
 | [ESCULAPIO](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/esculapio) | Agenda, roles y transición a atención humana en una aplicación FastAPI. |
 
