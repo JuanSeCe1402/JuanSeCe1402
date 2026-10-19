@@ -1,6 +1,6 @@
 # Juan Serena
 
-Físico egresado de la UANL, con título en trámite. Construyo aplicaciones en Python para preparar datos, evaluar modelos y organizar procesos. Mi portafolio conecta ciencia de datos, machine learning y desarrollo backend, con una línea de investigación en física computacional.
+Construyo aplicaciones en Python para preparar datos, evaluar modelos y organizar procesos. Mi portafolio conecta ciencia de datos, machine learning y desarrollo backend, con una línea de investigación en física computacional.
 
 **Python · SQL · pandas · scikit-learn · Flask · FastAPI · PyTorch**
 
