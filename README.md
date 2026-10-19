@@ -1,10 +1,12 @@
 # Juan Serena
 
-Construyo aplicaciones en Python para preparar datos, evaluar modelos y organizar procesos. Mi portafolio conecta ciencia de datos, machine learning y desarrollo backend, con una línea de investigación en física computacional.
+Físico egresado de la UANL, con título en trámite. Construyo aplicaciones en Python para preparar datos, evaluar modelos y organizar procesos. Mi portafolio conecta ciencia de datos, machine learning y desarrollo backend, con una línea de investigación en física computacional.
 
 **Python · SQL · pandas · scikit-learn · Flask · FastAPI · PyTorch**
 
 **[Explorar mi portafolio →](https://github.com/JuanSeCe1402/juan-serena-data-science)** · **[Abrir el laboratorio interactivo →](https://juan-serena-data-lab-production.up.railway.app/)**
+
+**[CV y trayectoria](https://github.com/JuanSeCe1402/juan-serena-data-science/blob/main/docs/cv/CV.md)** · **[Descargar CV en PDF](https://github.com/JuanSeCe1402/juan-serena-data-science/blob/main/docs/cv/Juan-Serena-CV.pdf)** · **[LinkedIn](https://www.linkedin.com/in/juan-manuel-serena-cece%C3%B1a-503b98197/)**
 
 | Proyecto | Qué puedes revisar |
 |---|---|
