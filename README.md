@@ -6,7 +6,7 @@ Construyo aplicaciones en Python para preparar datos, evaluar modelos y organiza
 
 **[Explorar mi portafolio →](https://github.com/JuanSeCe1402/juan-serena-data-science)** · **[Abrir el laboratorio interactivo →](https://juan-serena-data-lab-production.up.railway.app/)**
 
-**[CV y trayectoria](https://github.com/JuanSeCe1402/juan-serena-data-science/blob/main/docs/cv/CV.md)** · **[Descargar CV en PDF](https://github.com/JuanSeCe1402/juan-serena-data-science/blob/main/docs/cv/Juan-Serena-CV.pdf)** · **[LinkedIn](https://www.linkedin.com/in/juan-manuel-serena-cece%C3%B1a-503b98197/)**
+**[CV y trayectoria](https://github.com/JuanSeCe1402/juan-serena-data-science/blob/main/docs/cv/CV.md)** · **[CV en español](https://github.com/JuanSeCe1402/juan-serena-data-science/blob/main/docs/cv/CV_Juan_Serena_Data_Science_ES.pdf)** · **[English résumé](https://github.com/JuanSeCe1402/juan-serena-data-science/blob/main/docs/cv/CV_Juan_Serena_Data_Science_EN.pdf)** · **[LinkedIn](https://www.linkedin.com/in/juan-manuel-serena-cece%C3%B1a-503b98197/)**
 
 | Proyecto | Qué puedes revisar |
 |---|---|
