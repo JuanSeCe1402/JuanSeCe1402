@@ -10,6 +10,7 @@ Construyo aplicaciones en Python para preparar datos, evaluar modelos y organiza
 
 | Proyecto | Qué puedes revisar |
 |---|---|
+| [WUNSCE Lead Agent](https://github.com/JuanSeCe1402/wunsce-lead-agent) | Califica un prospecto ficticio, explica la puntuación y permite revisar el borrador de seguimiento. [Probar demo](https://wunsce-lead-agent-demo-production.up.railway.app/) |
 | [WUNSCE Deal Desk](https://github.com/JuanSeCe1402/wunsce-deal-desk) | Calcula una cotización y muestra quién debe aprobar el descuento. [Probar demo](https://wunsce-deal-desk-production.up.railway.app/) |
 | [WUNSCE Revenue Operations](https://github.com/JuanSeCe1402/wunsce-revenue-operations) | Simula una respuesta perdida del CRM y comprueba que el reintento produce una sola orden y una tarea. [Probar demo](https://wunsce-revenue-operations-production.up.railway.app/) |
 | [DARWIN](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/darwin) | Recompra con datos públicos de UCI, evaluación temporal y comparación con referencias sencillas. |
