@@ -10,6 +10,8 @@ Construyo aplicaciones en Python para preparar datos, evaluar modelos y organiza
 
 | Proyecto | Qué puedes revisar |
 |---|---|
+| [WUNSCE Deal Desk](https://github.com/JuanSeCe1402/wunsce-deal-desk) | Calcula una cotización y muestra quién debe aprobar el descuento. [Probar demo](https://wunsce-deal-desk-production.up.railway.app/) |
+| [WUNSCE Revenue Operations](https://github.com/JuanSeCe1402/wunsce-revenue-operations) | Simula una respuesta perdida del CRM y comprueba que el reintento produce una sola orden y una tarea. [Probar demo](https://wunsce-revenue-operations-production.up.railway.app/) |
 | [DARWIN](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/darwin) | Recompra con datos públicos de UCI, evaluación temporal y comparación con referencias sencillas. |
 | [NANA](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/nana) | Limpieza y perfilado de CSV, con exportación a CSV y SQLite. |
 | [ESCULAPIO](https://github.com/JuanSeCe1402/juan-serena-data-science/tree/main/proyectos/esculapio) | Agenda, roles y transición a atención humana en una aplicación FastAPI. |
